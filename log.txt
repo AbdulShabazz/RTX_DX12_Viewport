@@ -1,0 +1,10 @@
+C:\Users\ahsha\Documents\Unreal Projects\THE_SFX_AUDIO_PLUGIN\Plugins\THE_SFX_AUDIO_PLUGN\Source\THE_SFX_AUDIO_PLUGN\RTX_DX12_Viewport\include
+C:\Users\ahsha\Documents\Unreal Projects\THE_SFX_AUDIO_PLUGIN\Plugins\THE_SFX_AUDIO_PLUGN\Source\THE_SFX_AUDIO_PLUGN\RTX_DX12_Viewport\include\thirdparty\d3dx12
+C:\Users\ahsha\Documents\Unreal Projects\THE_SFX_AUDIO_PLUGIN\Plugins\THE_SFX_AUDIO_PLUGN\Source\THE_SFX_AUDIO_PLUGN\RTX_DX12_Viewport\include\thirdparty\directxtex
+C:\Users\ahsha\Documents\Unreal Projects\THE_SFX_AUDIO_PLUGIN\Plugins\THE_SFX_AUDIO_PLUGN\Source\THE_SFX_AUDIO_PLUGN\RTX_DX12_Viewport\include\thirdparty\directxtk
+C:\Users\ahsha\Documents\Unreal Projects\THE_SFX_AUDIO_PLUGIN\Plugins\THE_SFX_AUDIO_PLUGN\Source\THE_SFX_AUDIO_PLUGN\RTX_DX12_Viewport\include\thirdparty\dxc
+C:\Users\ahsha\Documents\Unreal Projects\THE_SFX_AUDIO_PLUGIN\Plugins\THE_SFX_AUDIO_PLUGN\Source\THE_SFX_AUDIO_PLUGN\RTX_DX12_Viewport\include\thirdparty\imgui
+C:\Users\ahsha\Documents\Unreal Projects\THE_SFX_AUDIO_PLUGIN\Plugins\THE_SFX_AUDIO_PLUGN\Source\THE_SFX_AUDIO_PLUGN\RTX_DX12_Viewport\include\thirdparty\stb
+C:\Users\ahsha\Documents\Unreal Projects\THE_SFX_AUDIO_PLUGIN\Plugins\THE_SFX_AUDIO_PLUGN\Source\THE_SFX_AUDIO_PLUGN\RTX_DX12_Viewport\include\thirdparty\tinygltf
+C:\Users\ahsha\Documents\Unreal Projects\THE_SFX_AUDIO_PLUGIN\Plugins\THE_SFX_AUDIO_PLUGN\Source\THE_SFX_AUDIO_PLUGN\RTX_DX12_Viewport\shaders
+C:\Users\ahsha\Documents\Unreal Projects\THE_SFX_AUDIO_PLUGIN\Plugins\THE_SFX_AUDIO_PLUGN\Source\THE_SFX_AUDIO_PLUGN\RTX_DX12_Viewport\src
