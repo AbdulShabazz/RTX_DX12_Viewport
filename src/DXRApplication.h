@@ -33,9 +33,8 @@
 #include <GLTF.h>
 #include <chrono>
 #include <Input.h>
-//#include <EditorViewportClient.h>
 
-	// Windows DPI Scaling
+// Windows DPI Scaling
 #include <ShellScalingApi.h>
 #pragma comment(lib, "shcore.lib")
 
@@ -46,26 +45,31 @@
 #endif
 
 /**
-	* Your ray tracing application interface.
-	*/
+* Your ray tracing application interface.
+*/
 class DXRApplication
 {
-public:
 
-				void Init(ConfigInfo& config);
-				void Update();
-				void Render();
-				void Cleanup();
+public:
+	DXRApplication();
+	void Init(ConfigInfo& config);
+	void Update();
+	void Render();
+	void Cleanup();
 
 private:
-				HWND window = {};
 
-				InputInfo input = {};
+	HWND window = {};
 
-				DXRGlobal dxr = {};
-				D3D12Global d3d = {};
-				D3D12Resources resources = {};
-				D3D12ShaderCompilerInfo shaderCompiler = {};
-				Gui gui = {};
-				std::chrono::steady_clock::time_point lastFrameTime = {};
+	InputInfo input = {};
+
+	DXRGlobal dxr = {};
+
+	D3D12Global d3d = {};
+	D3D12Resources resources = {};
+	D3D12ShaderCompilerInfo shaderCompiler = {};
+
+	Gui gui = {};
+
+	std::chrono::steady_clock::time_point lastFrameTime = {};
 };
